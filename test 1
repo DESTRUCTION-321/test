@@ -1,5 +1,11 @@
 #include<iostream>
+int addition(int a, int b){
+  return a+b;
+}
 int main{
-  cout<<"Hello World!";
-  return 0;
+  cout<<"Hello World!"<<ednl;
+
+  cout<<"Add a function for addition";
+  int x, int y;
+  return addition(x,y);
 }
