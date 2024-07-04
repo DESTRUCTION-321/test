@@ -1,11 +1,20 @@
 #include<iostream>
-int addition(int a, int b){
-  return a+b;
+int expression int a, int b，char c){
+  switch(c){
+    case '+': return a+b;  break;
+    case '-': return a-b;  break;
+    case '*': return a*b;  break;
+    case '/': return a/b;  break;
+    default: cout<<"Wrong operator."; return 0;
+  }
 }
 int main{
   cout<<"Hello World!"<<ednl;
 
   cout<<"Add a function for addition";
   int x, int y;
-  return addition(x,y);
+  char z;
+  cin>>x>>z>>y;
+  return addition(x,y,z);
+  
 }
