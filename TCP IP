@@ -1,2 +1,14 @@
-This file is meant to explain what is"TCP/IP".
-//to be continued.
+//This file is meant to explain "TCP/IP" and "UDP".
+/*关于TCP/IP：
+1.计算机与网络设备要相互通信需要的一种规则，称为协议
+①	TCP/IP 是在 IP 协议的通信过程中，使用到的协议族的统称，比如：TCP，UDP，IP，FTP，HTTP，ICMP，SMTP 等都属于 TCP/IP 族内的协议。
+②	TCP/IP 是指 TCP 和 IP 这两种协议。（不过一般情况下应该是①对应的情况）
+
+2.TCP传输：TCP/IP参考模型共分为四层：数据链路层、网络层、传输层和应用层。 TCP就是传输层。面向连接，传输安全，传输数据较大时使用，但是速度慢。
+
+关于UDP：
+1.	在了解UDP之前，得先了解一下OSI参考模型（区别于TCP/IP参考模型的另一种模型）。
+OSI参考模型也是分层，不过他是分七层：应用层，表示层，会话层，传输层，网络层，数据链路层，物理层。然后UDP也是指传输层。
+2.	UDP传输面向非连接，使适用于传输量较小的时候，不过传输速度快（这可能就是它虽然不安全但仍然广为使用的原因）。
+*/
+
