@@ -1,5 +1,4 @@
-//This file is meant to raise questions and give answers by learing onlion.
-//Questions are about backgrounds of Brain-computer interfaces.
+//This file is meant to raise questions and give answers by learning online.  Questions are about backgrounds of Brain-computer interfaces.
 /* 
   Q1: 我在搜索脑机接口相关定义的时候发现，脑机接口技术是值人脑与计算机信息交互。
       易理解“人脑->计算机”，比如“人的解题思路->各种编程语言”的逻辑，那么“计算机->人脑”是怎样的逻辑？
@@ -22,7 +21,7 @@
       所以，早期的脑机接口实现是多个学科，多种技术合作才有的。
   Q4：植入式和贴皮式的优缺点？
   A4：唔，首先对于一项技术，不能只从它是否成功来判断其好坏。考虑因素是多方面的。
-因为优缺点是相对的，所以只说一个就行。（不是我懒doge）
+因为优缺点是相对的，所以只说一个就行。
       对于植入式：
           ① 因为更贴近神经元/大脑皮层，所以信号质量高，对于分析脑电信号有很大意义。
               相比之下，贴皮式的就是距离神经元/大脑皮层比较远，所以有可能微小的噪音就是致命影响。
@@ -31,3 +30,4 @@
               贴皮式的就不需要手术，相对安全。
           ③ 长远来看，因为芯片在脑内，所以一旦有损坏或者要维修了，那又要涉及到开颅问题。
               贴皮式的可能就比较简单了（可能就像血糖检测仪），只要电极在里面就好，芯片什么的出了问题随时可以换。
+*/
